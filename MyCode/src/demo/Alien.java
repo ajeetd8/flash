@@ -2,6 +2,6 @@ package demo;
 
 public class Alien {
 	public int subtract() {
-		return 3;
+		return 2;
 	}
 }
